@@ -1,0 +1,1313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2018-10-19">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <nodes>
+      <node id="project" label="project">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5056.5327" y="4324.76"></viz:position>
+      </node>
+      <node id=" following components" label=" following components">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4749.9414" y="4163.5747"></viz:position>
+      </node>
+      <node id=" energy efficiency" label=" energy efficiency">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4831.8887" y="4298.5625"></viz:position>
+      </node>
+      <node id="project components" label="project components">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1984.0786" y="-6763.8228"></viz:position>
+      </node>
+      <node id=" project assistance" label=" project assistance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1820.7117" y="-6718.931"></viz:position>
+      </node>
+      <node id="it" label="it">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-182.99994" y="-4428.8315"></viz:position>
+      </node>
+      <node id=" expected" label=" expected">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-343.96432" y="-4404.4"></viz:position>
+      </node>
+      <node id=" project preparatory assistance" label=" project preparatory assistance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1884.561" y="-6881.9907"></viz:position>
+      </node>
+      <node id=" developed" label=" developed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2140.8594" y="-6719.5063"></viz:position>
+      </node>
+      <node id=" project technical assistance" label=" project technical assistance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2009.5857" y="-6674.3945"></viz:position>
+      </node>
+      <node id=" project preparatory technical assistance" label=" project preparatory technical assistance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1710.9868" y="-6808.756"></viz:position>
+      </node>
+      <node id=" ppta" label=" ppta">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2134.6777" y="-6838.0195"></viz:position>
+      </node>
+      <node id=" growth" label=" growth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5192.596" y="4360.53"></viz:position>
+      </node>
+      <node id=" inclusive growth" label=" inclusive growth">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4874.532" y="4370.0083"></viz:position>
+      </node>
+      <node id="proposed project" label="proposed project">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4968.525" y="4518.374"></viz:position>
+      </node>
+      <node id="prefectural level city" label="prefectural level city">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1356.473" y="-159.82843"></viz:position>
+      </node>
+      <node id=" jiangxi province" label=" jiangxi province">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1283.6268" y="-115.46342"></viz:position>
+      </node>
+      <node id="an" label="an">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1328.1268" y="-2014.895"></viz:position>
+      </node>
+      <node id=" prefectural" label=" prefectural">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1365.0465" y="-1978.9176"></viz:position>
+      </node>
+      <node id="city center" label="city center">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2636.2966" y="2604.533"></viz:position>
+      </node>
+      <node id=" 50 square km" label=" 50 square km">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2584.7893" y="2693.7783"></viz:position>
+      </node>
+      <node id=" 50 km" label=" 50 km">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2480.157" y="2568.305"></viz:position>
+      </node>
+      <node id=" population of about 520,000" label=" population of about 520,000">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2704.8467" y="2527.005"></viz:position>
+      </node>
+      <node id=" population" label=" population">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2790.4453" y="2649.4229"></viz:position>
+      </node>
+      <node id="has" label="has">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1063.4989" y="14.650103"></viz:position>
+      </node>
+      <node id=" about 520,000" label=" about 520,000">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1009.0044" y="-72.122925"></viz:position>
+      </node>
+      <node id="master plan" label="master plan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-224.40196" y="786.01196"></viz:position>
+      </node>
+      <node id=" area" label=" area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-239.40259" y="835.43304"></viz:position>
+      </node>
+      <node id=" expanded area" label=" expanded area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-299.69318" y="696.9638"></viz:position>
+      </node>
+      <node id=" area by 2030" label=" area by 2030">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-450.71426" y="830.2606"></viz:position>
+      </node>
+      <node id=" expanded area by 2030" label=" expanded area by 2030">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-476.97995" y="741.8067"></viz:position>
+      </node>
+      <node id="$ ™" label="$ ™">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3493.4666" y="-1425.7341"></viz:position>
+      </node>
+      <node id=" nearby provinces" label=" nearby provinces">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3478.6406" y="-1498.1434"></viz:position>
+      </node>
+      <node id="$" label="$">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3429.3792" y="-1409.4617"></viz:position>
+      </node>
+      <node id=" relatively poor" label=" relatively poor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3575.414" y="-1379.3708"></viz:position>
+      </node>
+      <node id=" poor" label=" poor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3439.7527" y="-1339.3706"></viz:position>
+      </node>
+      <node id=" provinces" label=" provinces">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3341.2668" y="-1453.5038"></viz:position>
+      </node>
+      <node id="incomes" label="incomes">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4086.5132" y="1171.7264"></viz:position>
+      </node>
+      <node id=" about 50 %" label=" about 50 %">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4204.8857" y="1133.9512"></viz:position>
+      </node>
+      <node id=" about 50 % of average" label=" about 50 % of average">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4055.3274" y="1212.0134"></viz:position>
+      </node>
+      <node id=" about 50 % of national average" label=" about 50 % of national average">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4040.6572" y="1092.9392"></viz:position>
+      </node>
+      <node id="tourism" label="tourism">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1812.4899" y="-318.43988"></viz:position>
+      </node>
+      <node id=" people" label=" people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1761.949" y="-359.63336"></viz:position>
+      </node>
+      <node id=" major" label=" major">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1298.2682" y="-2052.0278"></viz:position>
+      </node>
+      <node id="revolutionary history" label="revolutionary history">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1375.3284" y="655.44037"></viz:position>
+      </node>
+      <node id=" prc" label=" prc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1319.1118" y="695.5675"></viz:position>
+      </node>
+      <node id="government" label="government">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7074.177" y="-150.53722"></viz:position>
+      </node>
+      <node id=" tourism â $" label=" tourism â $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6916.497" y="-105.95649"></viz:position>
+      </node>
+      <node id="socio-economic development" label="socio-economic development">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-342.09012" y="2225.95"></viz:position>
+      </node>
+      <node id=" areas" label=" areas">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-369.59787" y="2188.9248"></viz:position>
+      </node>
+      <node id=" $" label=" $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7148.816" y="-106.142334"></viz:position>
+      </node>
+      <node id=" â tourism â $" label=" â tourism â $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7059.652" y="-63.028034"></viz:position>
+      </node>
+      <node id=" red tourism â $" label=" red tourism â $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-7162.9873" y="-215.40965"></viz:position>
+      </node>
+      <node id=" â $" label=" â $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6977.47" y="-244.48259"></viz:position>
+      </node>
+      <node id=" â red tourism â $" label=" â red tourism â $">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-6843.402" y="-193.65096"></viz:position>
+      </node>
+      <node id="city" label="city">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-330.40695" y="6841.1265"></viz:position>
+      </node>
+      <node id=" hub" label=" hub">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-231.5888" y="6776.6836"></viz:position>
+      </node>
+      <node id=" well placed" label=" well placed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.45023" y="7019.084"></viz:position>
+      </node>
+      <node id=" located" label=" located">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-191.12178" y="6890.7363"></viz:position>
+      </node>
+      <node id=" traveled expressway corridor" label=" traveled expressway corridor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-625.262" y="6886.587"></viz:position>
+      </node>
+      <node id=" expressway corridor between nanchang" label=" expressway corridor between nanchang">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-539.26825" y="6930.798"></viz:position>
+      </node>
+      <node id=" hub for freight" label=" hub for freight">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-163.82301" y="6817.388"></viz:position>
+      </node>
+      <node id=" placed" label=" placed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-60.89437" y="6861.701"></viz:position>
+      </node>
+      <node id=" expressway corridor" label=" expressway corridor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-127.530304" y="6976.7744"></viz:position>
+      </node>
+      <node id=" heavily traveled expressway corridor" label=" heavily traveled expressway corridor">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-637.47565" y="6785.377"></viz:position>
+      </node>
+      <node id=" traveled expressway corridor between nanchang" label=" traveled expressway corridor between nanchang">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-525.4783" y="6736.676"></viz:position>
+      </node>
+      <node id=" heavily traveled expressway corridor between nanchang" label=" heavily traveled expressway corridor between nanchang">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.68947" y="6691.8687"></viz:position>
+      </node>
+      <node id="changjigan intercity" label="changjigan intercity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.77527" y="2188.1"></viz:position>
+      </node>
+      <node id=" travel" label=" travel">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="920.6762" y="2147.8777"></viz:position>
+      </node>
+      <node id=" travel south" label=" travel south">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="793.70184" y="2228.396"></viz:position>
+      </node>
+      <node id="costs" label="costs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3770.0393" y="-97.51322"></viz:position>
+      </node>
+      <node id=" attractiveness" label=" attractiveness">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3624.6235" y="-133.46465"></viz:position>
+      </node>
+      <node id="economy costs" label="economy costs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3591.4954" y="-56.47115"></viz:position>
+      </node>
+      <node id=" attractiveness of" label=" attractiveness of">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3730.541" y="-16.020294"></viz:position>
+      </node>
+      <node id="opening" label="opening">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1795.5253" y="-1415.142"></viz:position>
+      </node>
+      <node id=" significant opportunity" label=" significant opportunity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1725.6995" y="-1369.7438"></viz:position>
+      </node>
+      <node id=" opportunity" label=" opportunity">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1860.6887" y="-1459.749"></viz:position>
+      </node>
+      <node id="large reductions" label="large reductions">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1011.9688" y="933.54333"></viz:position>
+      </node>
+      <node id=" regional travel times" label=" regional travel times">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="972.0342" y="889.1737"></viz:position>
+      </node>
+      <node id="new station" label="new station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.927673" y="-61.247707"></viz:position>
+      </node>
+      <node id=" about 6 km west of existing city center from currently developed city area" label=" about 6 km west of existing city center from currently developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="259.34042" y="-143.54657"></viz:position>
+      </node>
+      <node id=" about 6 km west of existing city center" label=" about 6 km west of existing city center">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="410.72" y="-98.83767"></viz:position>
+      </node>
+      <node id=" about 6 km west of existing city center from developed city area" label=" about 6 km west of existing city center from developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-560.51306" y="171.51837"></viz:position>
+      </node>
+      <node id=" about 6 km west from currently developed city area" label=" about 6 km west from currently developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-600.3163" y="15.261723"></viz:position>
+      </node>
+      <node id=" about 6 km west of city center" label=" about 6 km west of city center">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="334.74533" y="149.46704"></viz:position>
+      </node>
+      <node id=" about 6 km west from city area" label=" about 6 km west from city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="308.05432" y="16.380924"></viz:position>
+      </node>
+      <node id="station" label="station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-139.65408" y="251.39577"></viz:position>
+      </node>
+      <node id=" about 6 km west of city center from developed city area" label=" about 6 km west of city center from developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="19.516205" y="105.27862"></viz:position>
+      </node>
+      <node id=" about 6 km west of existing city center from city area" label=" about 6 km west of existing city center from city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="543.1914" y="-28.046417"></viz:position>
+      </node>
+      <node id=" about 6 km west" label=" about 6 km west">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-355.3839" y="-33.788807"></viz:position>
+      </node>
+      <node id=" about 6 km west of city center from currently developed city area" label=" about 6 km west of city center from currently developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-919.35614" y="60.931217"></viz:position>
+      </node>
+      <node id=" about 6 km west from developed city area" label=" about 6 km west from developed city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.5668" y="195.15388"></viz:position>
+      </node>
+      <node id=" about 6 km west of city center from city area" label=" about 6 km west of city center from city area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="336.16748" y="239.63828"></viz:position>
+      </node>
+      <node id="station area" label="station area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1998.2084" y="4989.3726"></viz:position>
+      </node>
+      <node id=" rice paddies" label=" rice paddies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1947.6167" y="5074.265"></viz:position>
+      </node>
+      <node id=" predominantly rice paddies" label=" predominantly rice paddies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2164.1094" y="5029.5713"></viz:position>
+      </node>
+      <node id=" at present predominantly rice paddies" label=" at present predominantly rice paddies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2047.2467" y="4903.9336"></viz:position>
+      </node>
+      <node id=" at present rice paddies" label=" at present rice paddies">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1839.0404" y="4948.354"></viz:position>
+      </node>
+      <node id=" become" label=" become">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-94.37092" y="-25.187237"></viz:position>
+      </node>
+      <node id="that" label="that">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2183.0107" y="393.56946"></viz:position>
+      </node>
+      <node id=" business center" label=" business center">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2171.312" y="357.4724"></viz:position>
+      </node>
+      <node id=" gateway" label=" gateway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.42411" y="60.932545"></viz:position>
+      </node>
+      <node id=" planned" label=" planned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-242.16725" y="-83.42342"></viz:position>
+      </node>
+      <node id=" new gateway" label=" new gateway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-120.55512" y="-188.77907"></viz:position>
+      </node>
+      <node id=" major business center" label=" major business center">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="2204.6633" y="434.16534"></viz:position>
+      </node>
+      <node id=" must linked" label=" must linked">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-226.28482" y="297.1856"></viz:position>
+      </node>
+      <node id=" transport costs" label=" transport costs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="62.58449" y="282.7011"></viz:position>
+      </node>
+      <node id=" surrounding area" label=" surrounding area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-57.16071" y="382.6022"></viz:position>
+      </node>
+      <node id="people" label="people">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-414.3179" y="-4698.211"></viz:position>
+      </node>
+      <node id=" move" label=" move">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-462.08865" y="-4625.337"></viz:position>
+      </node>
+      <node id="key development challenge" label="key development challenge">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1286.6266" y="736.01196"></viz:position>
+      </node>
+      <node id=" where expected" label=" where expected">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-445.3072" y="-4796.3"></viz:position>
+      </node>
+      <node id=" decade" label=" decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-571.55225" y="-4755.9272"></viz:position>
+      </node>
+      <node id=" move to cities" label=" move to cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-302.65134" y="-4836.919"></viz:position>
+      </node>
+      <node id=" cities" label=" cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-316.94565" y="-4656.5044"></viz:position>
+      </node>
+      <node id=" move to cities over next decade" label=" move to cities over next decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-775.90515" y="-4719.577"></viz:position>
+      </node>
+      <node id=" move to cities over decade" label=" move to cities over decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-440.06912" y="-4873.399"></viz:position>
+      </node>
+      <node id=" next decade" label=" next decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-642.0547" y="-4837.0977"></viz:position>
+      </node>
+      <node id=" move over next decade" label=" move over next decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-215.58986" y="-4751.814"></viz:position>
+      </node>
+      <node id=" move over decade" label=" move over decade">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-622.2935" y="-4657.327"></viz:position>
+      </node>
+      <node id="investments" label="investments">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4433.521" y="-4694.1626"></viz:position>
+      </node>
+      <node id=" necessary" label=" necessary">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4605.0186" y="-4629.0166"></viz:position>
+      </node>
+      <node id=" development" label=" development">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4364.147" y="-4779.429"></viz:position>
+      </node>
+      <node id=" development in second tier cities" label=" development in second tier cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4600.794" y="-4735.0015"></viz:position>
+      </node>
+      <node id="development" label="development">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="362.72128" y="-1284.1567"></viz:position>
+      </node>
+      <node id=" second tier cities" label=" second tier cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="350.4345" y="-1324.2472"></viz:position>
+      </node>
+      <node id=" urban infrastructure" label=" urban infrastructure">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4399.485" y="-4592.857"></viz:position>
+      </node>
+      <node id=" development in tier cities" label=" development in tier cities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4260.7285" y="-4653.291"></viz:position>
+      </node>
+      <node id="potential benefits" label="potential benefits">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="664.47217" y="3910.5374"></viz:position>
+      </node>
+      <node id=" urbanization" label=" urbanization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="598.12604" y="3995.9565"></viz:position>
+      </node>
+      <node id=" high speed railway" label=" high speed railway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="773.5117" y="3954.8977"></viz:position>
+      </node>
+      <node id=" sustainable urbanization" label=" sustainable urbanization">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="644.7924" y="3869.7314"></viz:position>
+      </node>
+      <node id="cps2" label="cps2">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1114.8417" y="-542.03534"></viz:position>
+      </node>
+      <node id=" areas of" label=" areas of">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1077.3186" y="-501.2525"></viz:position>
+      </node>
+      <node id="adb" label="adb">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2811.7686" y="-2365.4048"></viz:position>
+      </node>
+      <node id=" sustainable transport initiative .4 through sti" label=" sustainable transport initiative .4 through sti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2926.4163" y="-2405.674"></viz:position>
+      </node>
+      <node id="sti" label="sti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2781.7246" y="-2266.0393"></viz:position>
+      </node>
+      <node id=" sti" label=" sti">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2825.9348" y="-2298.429"></viz:position>
+      </node>
+      <node id=" assistance to prc" label=" assistance to prc">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3009.0571" y="-2337.3184"></viz:position>
+      </node>
+      <node id=" its support for transport" label=" its support for transport">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4789.569" y="4428.9272"></viz:position>
+      </node>
+      <node id=" its support for sustainable transport" label=" its support for sustainable transport">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5283.236" y="4473.637"></viz:position>
+      </node>
+      <node id=" its support" label=" its support">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5128.7134" y="4650.753"></viz:position>
+      </node>
+      <node id="selected provinces" label="selected provinces">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-639.7799" y="-624.84644"></viz:position>
+      </node>
+      <node id=" central region" label=" central region">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-609.8008" y="-580.5295"></viz:position>
+      </node>
+      <node id=" interests" label=" interests">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5106.799" y="4408.458"></viz:position>
+      </node>
+      <node id=" also aligned" label=" also aligned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4746.309" y="4563.7812"></viz:position>
+      </node>
+      <node id=" aligned" label=" aligned">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5269.726" y="4409.2427"></viz:position>
+      </node>
+      <node id="digraph" label="digraph">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="9630.598" y="7306.554"></viz:position>
+      </node>
+      <node id="energy efficiency" label="energy efficiency">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4129.2666" y="996.6706"></viz:position>
+      </node>
+      <node id=" will promoted through acquisition of hybrid buses" label=" will promoted through acquisition of hybrid buses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4285.9062" y="952.41394"></viz:position>
+      </node>
+      <node id=" will promoted" label=" will promoted">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-3981.7703" y="1040.8422"></viz:position>
+      </node>
+      <node id=" will promoted through acquisition of diesel-electric hybrid buses" label=" will promoted through acquisition of diesel-electric hybrid buses">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4219.0723" y="1086.671"></viz:position>
+      </node>
+      <node id=" will promoted through acquisition" label=" will promoted through acquisition">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4047.9941" y="908.0361"></viz:position>
+      </node>
+      <node id="efficient" label="efficient">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1670.37" y="3176.948"></viz:position>
+      </node>
+      <node id=" more environmentally sustainable urban transport system" label=" more environmentally sustainable urban transport system">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1817.2805" y="3217.7175"></viz:position>
+      </node>
+      <node id=" environmentally sustainable urban transport system" label=" environmentally sustainable urban transport system">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1626.6807" y="3262.5166"></viz:position>
+      </node>
+      <node id="safe efficient" label="safe efficient">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1773.0054" y="3302.5593"></viz:position>
+      </node>
+      <node id="multimodal accessibility" label="multimodal accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1234.2952" y="-1300.5986"></viz:position>
+      </node>
+      <node id=" established" label=" established">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1072.9073" y="-1341.298"></viz:position>
+      </node>
+      <node id="accessibility" label="accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1020.20795" y="-1255.3649"></viz:position>
+      </node>
+      <node id="efficient accessibility" label="efficient accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="906.69965" y="-1381.2649"></viz:position>
+      </node>
+      <node id="efficient multimodal accessibility" label="efficient multimodal accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1124.6288" y="-1426.1108"></viz:position>
+      </node>
+      <node id=" integration" label=" integration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="115.980194" y="326.44937"></viz:position>
+      </node>
+      <node id=" six outputs intended" label=" six outputs intended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4843.1304" y="4608.9155"></viz:position>
+      </node>
+      <node id=" multimodal integration" label=" multimodal integration">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-324.83328" y="337.0979"></viz:position>
+      </node>
+      <node id=" six main outputs" label=" six main outputs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4570.812" y="4383.526"></viz:position>
+      </node>
+      <node id=" six main outputs intended" label=" six main outputs intended">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5268.262" y="4563.7393"></viz:position>
+      </node>
+      <node id=" six outputs" label=" six outputs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5336.0806" y="4518.4653"></viz:position>
+      </node>
+      <node id="project outputs" label="project outputs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3570.2075" y="231.39981"></viz:position>
+      </node>
+      <node id=" transport hub" label=" transport hub">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3657.2383" y="141.21191"></viz:position>
+      </node>
+      <node id=" public transport hub" label=" public transport hub">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3724.9712" y="276.40863"></viz:position>
+      </node>
+      <node id="proposed project outputs" label="proposed project outputs">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3811.1436" y="185.6095"></viz:position>
+      </node>
+      <node id="new bus terminal" label="new bus terminal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2615.769" y="-872.55005"></viz:position>
+      </node>
+      <node id=" connections" label=" connections">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2889.0994" y="-859.15967"></viz:position>
+      </node>
+      <node id=" proposed" label=" proposed">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2651.6846" y="-772.70404"></viz:position>
+      </node>
+      <node id=" connections to railway station" label=" connections to railway station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2944.5095" y="-817.7505"></viz:position>
+      </node>
+      <node id=" connections to new railway station" label=" connections to new railway station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2616.785" y="-949.5712"></viz:position>
+      </node>
+      <node id="bus terminal" label="bus terminal">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2815.4128" y="-908.8104"></viz:position>
+      </node>
+      <node id="bus transfer facilities" label="bus transfer facilities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3239.1602" y="-3165.351"></viz:position>
+      </node>
+      <node id=" will integrated" label=" will integrated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3210.8594" y="-3079.1052"></viz:position>
+      </node>
+      <node id=" will integrated with railway station" label=" will integrated with railway station">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3396.9822" y="-3123.7212"></viz:position>
+      </node>
+      <node id=" fast transfers" label=" fast transfers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3288.4114" y="-3237.009"></viz:position>
+      </node>
+      <node id=" transfers" label=" transfers">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3089.622" y="-3201.2126"></viz:position>
+      </node>
+      <node id="motorized traffic" label="motorized traffic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1592.3962" y="-3691.8245"></viz:position>
+      </node>
+      <node id=" multimodal accessibility" label=" multimodal accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1721.5605" y="-3732.3018"></viz:position>
+      </node>
+      <node id="traffic" label="traffic">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1798.9858" y="-3662.8682"></viz:position>
+      </node>
+      <node id=" accessibility" label=" accessibility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1672.8125" y="-3622.3093"></viz:position>
+      </node>
+      <node id="public plaza" label="public plaza">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2592.7156" y="-728.33716"></viz:position>
+      </node>
+      <node id="plaza" label="plaza">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2511.8286" y="-827.1155"></viz:position>
+      </node>
+      <node id="expanded master" label="expanded master">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-234.7598" y="875.96326"></viz:position>
+      </node>
+      <node id=" green zone for city residents" label=" green zone for city residents">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-66.08415" y="981.06635"></viz:position>
+      </node>
+      <node id="master" label="master">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.69894" y="940.52716"></viz:position>
+      </node>
+      <node id=" urban area" label=" urban area">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-140.58693" y="923.0532"></viz:position>
+      </node>
+      <node id=" green zone" label=" green zone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-212.42816" y="1066.3932"></viz:position>
+      </node>
+      <node id="provide" label="provide">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="981.9179" y="-311.07544"></viz:position>
+      </node>
+      <node id=" city residents" label=" city residents">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="929.4918" y="-265.49115"></viz:position>
+      </node>
+      <node id=" waterway" label=" waterway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4718.0747" y="4495.9966"></viz:position>
+      </node>
+      <node id=" zone" label=" zone">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-437.76517" y="912.00684"></viz:position>
+      </node>
+      <node id=" zone for city residents" label=" zone for city residents">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-441.60474" y="1026.1556"></viz:position>
+      </node>
+      <node id="water" label="water">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4063.9202" y="-2938.293"></viz:position>
+      </node>
+      <node id=" at present is channeled" label=" at present is channeled">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4183.5156" y="-2897.352"></viz:position>
+      </node>
+      <node id=" rice paddy cultivation" label=" rice paddy cultivation">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4017.4358" y="-2852.95"></viz:position>
+      </node>
+      <node id=" is channeled" label=" is channeled">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="4046.4238" y="-2974.9065"></viz:position>
+      </node>
+      <node id="balance" label="balance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2146.25" y="-3030.3206"></viz:position>
+      </node>
+      <node id=" would sourced from jmg" label=" would sourced from jmg">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1999.5477" y="-3070.3787"></viz:position>
+      </node>
+      <node id=" would sourced" label=" would sourced">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-2078.8916" y="-2948.7505"></viz:position>
+      </node>
+      <node id="remaining balance" label="remaining balance">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1938.5515" y="-2989.5425"></viz:position>
+      </node>
+      <node id=" loan from adb" label=" loan from adb">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-275.1952" y="-4508.657"></viz:position>
+      </node>
+      <node id=" $ 120 million loan from adb" label=" $ 120 million loan from adb">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-153.4797" y="-4345.36"></viz:position>
+      </node>
+      <node id=" loan" label=" loan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-113.11724" y="-4384.8555"></viz:position>
+      </node>
+      <node id=" $ 120 million loan" label=" $ 120 million loan">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-47.929424" y="-4468.9424"></viz:position>
+      </node>
+      <node id="$ 2.5 million grant" label="$ 2.5 million grant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4935.0063" y="3168.5205"></viz:position>
+      </node>
+      <node id=" is also explored from environment facility" label=" is also explored from environment facility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4528.8467" y="3032.9153"></viz:position>
+      </node>
+      <node id=" is also explored" label=" is also explored">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4736.4253" y="3213.767"></viz:position>
+      </node>
+      <node id="$ grant" label="$ grant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4979.281" y="3076.3074"></viz:position>
+      </node>
+      <node id=" is explored from global environment facility" label=" is explored from global environment facility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4514.1675" y="3122.509"></viz:position>
+      </node>
+      <node id="grant" label="grant">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5081.9995" y="3214.0422"></viz:position>
+      </node>
+      <node id=" energy efficiency component" label=" energy efficiency component">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5309.046" y="3121.8894"></viz:position>
+      </node>
+      <node id=" is explored" label=" is explored">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4978.4614" y="3260.0237"></viz:position>
+      </node>
+      <node id=" is also explored from global environment facility" label=" is also explored from global environment facility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-4812.344" y="2943.0886"></viz:position>
+      </node>
+      <node id=" is explored from environment facility" label=" is explored from environment facility">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-5239.0005" y="2988.1265"></viz:position>
+      </node>
+      <node id="railway" label="railway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-424.311" y="-4161.457"></viz:position>
+      </node>
+      <node id=" open" label=" open">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-291.58237" y="-4150.6963"></viz:position>
+      </node>
+      <node id="new railway" label="new railway">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-387.29037" y="-4295.8574"></viz:position>
+      </node>
+      <node id=" open by 2016" label=" open by 2016">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-260.76053" y="-4205.8755"></viz:position>
+      </node>
+      <node id=" currently expected" label=" currently expected">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-421.24146" y="-4104.2896"></viz:position>
+      </node>
+      <node id=" open for service by 2016" label=" open for service by 2016">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-148.3429" y="-4250.7925"></viz:position>
+      </node>
+      <node id=" service" label=" service">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-519.1481" y="-4336.5303"></viz:position>
+      </node>
+      <node id=" open for service" label=" open for service">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-574.9262" y="-4216.474"></viz:position>
+      </node>
+      <node id=" 2016" label=" 2016">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-537.828" y="-4144.934"></viz:position>
+      </node>
+      <node id="the" label="the">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5605.3623" y="-968.6796"></viz:position>
+      </node>
+      <node id=" responsible" label=" responsible">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5675.0244" y="-928.06525"></viz:position>
+      </node>
+      <node id=" ea" label=" ea">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5508.2793" y="-1030.0634"></viz:position>
+      </node>
+      <node id="counterpart staff" label="counterpart staff">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1298.9623" y="-316.84357"></viz:position>
+      </node>
+      <node id=" ta activities" label=" ta activities">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1224.177" y="-276.6843"></viz:position>
+      </node>
+      <node id="jmg" label="jmg">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-493.6754" y="-296.748"></viz:position>
+      </node>
+      <node id=" counterpart staff" label=" counterpart staff">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-448.7328" y="-250.90411"></viz:position>
+      </node>
+      <node id=" ia" label=" ia">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5546.2334" y="-967.82056"></viz:position>
+      </node>
+      <node id=" will city investment" label=" will city investment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5666.1" y="-1066.2349"></viz:position>
+      </node>
+      <node id=" will ji'an city investment" label=" will ji'an city investment">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5753.559" y="-1009.27924"></viz:position>
+      </node>
+      <node id=" categorized" label=" categorized">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="6.423325" y="-4424.9854"></viz:position>
+      </node>
+      <node id="ppta" label="ppta">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3561.223" y="-4753.546"></viz:position>
+      </node>
+      <node id=" will initiated in 2012" label=" will initiated in 2012">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3418.573" y="-4714.106"></viz:position>
+      </node>
+      <node id=" 2013" label=" 2013">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3621.5007" y="-4678.347"></viz:position>
+      </node>
+      <node id=" amount of $ 700,000" label=" amount of $ 700,000">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3695.9414" y="-4797.7983"></viz:position>
+      </node>
+      <node id=" will initiated" label=" will initiated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="3506.9302" y="-4837.768"></viz:position>
+      </node>
+      <node id=" 14 months of staff time" label=" 14 months of staff time">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5045.912" y="4203.748"></viz:position>
+      </node>
+      <node id=" 14 months of staff time including staff consultant resources" label=" 14 months of staff time including staff consultant resources">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5111.1606" y="4118.9927"></viz:position>
+      </node>
+      <node id=" 14 months including staff consultant resources" label=" 14 months including staff consultant resources">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5489.288" y="4244.6855"></viz:position>
+      </node>
+      <node id=" 14 months" label=" 14 months">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="5180.1475" y="4284.594"></viz:position>
+      </node>
+      <node id=" estimated" label=" estimated">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-92.861916" y="-4544.501"></viz:position>
+      </node>
+      <node id="milestones" label="milestones">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1252.6241" y="2948.5894"></viz:position>
+      </node>
+      <node id=" the" label=" the">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1399.5918" y="2970.4907"></viz:position>
+      </node>
+      <node id=" the following dates" label=" the following dates">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1229.3811" y="2863.577"></viz:position>
+      </node>
+      <node id="major milestones" label="major milestones">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1492.9764" y="2908.3867"></viz:position>
+      </node>
+      <node id=" the following expected dates" label=" the following expected dates">
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1408.6587" y="2819.3728"></viz:position>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="project" target=" following components" label=" is with"></edge>
+      <edge id="1" source="project" target=" energy efficiency" label=" improved"></edge>
+      <edge id="2" source="project components" target=" project assistance" label=" be developed during"></edge>
+      <edge id="3" source="it" target=" expected" label=" is"></edge>
+      <edge id="4" source="project components" target=" project preparatory assistance" label=" be developed during"></edge>
+      <edge id="5" source="project components" target=" developed" label=" be"></edge>
+      <edge id="6" source="project components" target=" project technical assistance" label=" be developed during"></edge>
+      <edge id="7" source="project components" target=" project preparatory technical assistance" label=" be developed during"></edge>
+      <edge id="8" source="project components" target=" ppta" label=" be developed during"></edge>
+      <edge id="9" source="project" target=" growth" label=" will contribute to"></edge>
+      <edge id="10" source="project" target=" inclusive growth" label=" will contribute to"></edge>
+      <edge id="11" source="proposed project" target=" inclusive growth" label=" will contribute to"></edge>
+      <edge id="12" source="proposed project" target=" growth" label=" will contribute to"></edge>
+      <edge id="13" source="prefectural level city" target=" jiangxi province" label=" is in"></edge>
+      <edge id="14" source="an" target=" prefectural" label=" is"></edge>
+      <edge id="15" source="city center" target=" 50 square km" label=" is about"></edge>
+      <edge id="16" source="city center" target=" 50 km" label=" is about"></edge>
+      <edge id="17" source="city center" target=" population of about 520,000" label=" has"></edge>
+      <edge id="18" source="city center" target=" population" label=" has"></edge>
+      <edge id="19" source="has" target=" about 520,000" label=" population of"></edge>
+      <edge id="20" source="master plan" target=" area" label=" envisions"></edge>
+      <edge id="21" source="master plan" target=" expanded area" label=" envisions"></edge>
+      <edge id="22" source="master plan" target=" area by 2030" label=" envisions"></edge>
+      <edge id="23" source="master plan" target=" expanded area by 2030" label=" envisions"></edge>
+      <edge id="24" source="$ ™" target=" nearby provinces" label=" lags behind"></edge>
+      <edge id="25" source="$" target=" nearby provinces" label=" lags behind"></edge>
+      <edge id="26" source="$ ™" target=" relatively poor" label=" remains"></edge>
+      <edge id="27" source="$ ™" target=" poor" label=" remains"></edge>
+      <edge id="28" source="$" target=" relatively poor" label=" remains"></edge>
+      <edge id="29" source="$" target=" poor" label=" remains"></edge>
+      <edge id="30" source="$" target=" provinces" label=" lags behind"></edge>
+      <edge id="31" source="$ ™" target=" provinces" label=" lags behind"></edge>
+      <edge id="32" source="incomes" target=" about 50 %" label=" remain"></edge>
+      <edge id="33" source="incomes" target=" about 50 % of average" label=" remain"></edge>
+      <edge id="34" source="incomes" target=" about 50 % of national average" label=" remain"></edge>
+      <edge id="35" source="tourism" target=" people" label=" is in"></edge>
+      <edge id="36" source="an" target=" major" label=" is"></edge>
+      <edge id="37" source="revolutionary history" target=" prc" label=" is in"></edge>
+      <edge id="38" source="government" target=" tourism â $" label=" development of"></edge>
+      <edge id="39" source="socio-economic development" target=" areas" label=" is in"></edge>
+      <edge id="40" source="government" target=" $" label=" development of"></edge>
+      <edge id="41" source="government" target=" â tourism â $" label=" development of"></edge>
+      <edge id="42" source="government" target=" red tourism â $" label=" development of"></edge>
+      <edge id="43" source="government" target=" â $" label=" development of"></edge>
+      <edge id="44" source="government" target=" â red tourism â $" label=" development of"></edge>
+      <edge id="45" source="city" target=" hub" label=" is placed as" weight="2.0"></edge>
+      <edge id="46" source="city" target=" well placed" label=" is"></edge>
+      <edge id="47" source="city" target=" located" label=" is"></edge>
+      <edge id="48" source="city" target=" traveled expressway corridor" label=" is located along"></edge>
+      <edge id="50" source="city" target=" expressway corridor between nanchang" label=" is located along"></edge>
+      <edge id="51" source="city" target=" hub for freight" label=" is placed as" weight="2.0"></edge>
+      <edge id="52" source="city" target=" placed" label=" is"></edge>
+      <edge id="53" source="city" target=" expressway corridor" label=" is located along"></edge>
+      <edge id="54" source="city" target=" heavily traveled expressway corridor" label=" is located along"></edge>
+      <edge id="56" source="city" target=" traveled expressway corridor between nanchang" label=" is located along"></edge>
+      <edge id="57" source="city" target=" heavily traveled expressway corridor between nanchang" label=" is located along"></edge>
+      <edge id="58" source="changjigan intercity" target=" travel" label=" express"></edge>
+      <edge id="59" source="changjigan intercity" target=" travel south" label=" express"></edge>
+      <edge id="60" source="costs" target=" attractiveness" label=" enhancing"></edge>
+      <edge id="61" source="economy costs" target=" attractiveness of" label=" enhancing"></edge>
+      <edge id="62" source="opening" target=" significant opportunity" label=" offers"></edge>
+      <edge id="63" source="costs" target=" attractiveness of" label=" enhancing"></edge>
+      <edge id="64" source="opening" target=" opportunity" label=" offers"></edge>
+      <edge id="65" source="economy costs" target=" attractiveness" label=" enhancing"></edge>
+      <edge id="66" source="large reductions" target=" regional travel times" label=" is in"></edge>
+      <edge id="67" source="new station" target=" about 6 km west of existing city center from currently developed city area" label=" is"></edge>
+      <edge id="68" source="new station" target=" about 6 km west of existing city center" label=" is"></edge>
+      <edge id="69" source="new station" target=" about 6 km west of existing city center from developed city area" label=" is"></edge>
+      <edge id="70" source="new station" target=" about 6 km west from currently developed city area" label=" is"></edge>
+      <edge id="71" source="new station" target=" about 6 km west of city center" label=" is"></edge>
+      <edge id="72" source="new station" target=" about 6 km west from city area" label=" is"></edge>
+      <edge id="73" source="station" target=" about 6 km west of existing city center from developed city area" label=" is"></edge>
+      <edge id="74" source="station" target=" about 6 km west of city center from developed city area" label=" is"></edge>
+      <edge id="75" source="station" target=" about 6 km west of existing city center from city area" label=" is"></edge>
+      <edge id="76" source="station" target=" about 6 km west" label=" is"></edge>
+      <edge id="77" source="station" target=" about 6 km west of city center" label=" is"></edge>
+      <edge id="78" source="new station" target=" about 6 km west of existing city center from city area" label=" is"></edge>
+      <edge id="79" source="new station" target=" about 6 km west of city center from currently developed city area" label=" is"></edge>
+      <edge id="80" source="station" target=" about 6 km west of existing city center from currently developed city area" label=" is"></edge>
+      <edge id="81" source="station" target=" about 6 km west of existing city center" label=" is"></edge>
+      <edge id="82" source="station" target=" about 6 km west from developed city area" label=" is"></edge>
+      <edge id="83" source="new station" target=" about 6 km west of city center from city area" label=" is"></edge>
+      <edge id="84" source="station" target=" about 6 km west of city center from city area" label=" is"></edge>
+      <edge id="85" source="new station" target=" about 6 km west from developed city area" label=" is"></edge>
+      <edge id="86" source="station" target=" about 6 km west of city center from currently developed city area" label=" is"></edge>
+      <edge id="87" source="station" target=" about 6 km west from currently developed city area" label=" is"></edge>
+      <edge id="88" source="station" target=" about 6 km west from city area" label=" is"></edge>
+      <edge id="89" source="new station" target=" about 6 km west" label=" is"></edge>
+      <edge id="90" source="new station" target=" about 6 km west of city center from developed city area" label=" is"></edge>
+      <edge id="91" source="station area" target=" rice paddies" label=" is"></edge>
+      <edge id="92" source="station area" target=" predominantly rice paddies" label=" is"></edge>
+      <edge id="93" source="station area" target=" at present predominantly rice paddies" label=" is"></edge>
+      <edge id="94" source="station area" target=" at present rice paddies" label=" is"></edge>
+      <edge id="95" source="new station" target=" become" label=" is planned"></edge>
+      <edge id="96" source="that" target=" business center" label=" will include"></edge>
+      <edge id="97" source="station" target=" become" label=" is planned"></edge>
+      <edge id="98" source="station" target=" gateway" label=" become"></edge>
+      <edge id="99" source="new station" target=" gateway" label=" become"></edge>
+      <edge id="100" source="new station" target=" planned" label=" is"></edge>
+      <edge id="101" source="new station" target=" new gateway" label=" become"></edge>
+      <edge id="102" source="that" target=" major business center" label=" will include"></edge>
+      <edge id="103" source="station" target=" planned" label=" is"></edge>
+      <edge id="104" source="station" target=" new gateway" label=" become"></edge>
+      <edge id="105" source="station" target=" must linked" label=" must"></edge>
+      <edge id="106" source="station" target=" transport costs" label=" reduce"></edge>
+      <edge id="107" source="station" target=" surrounding area" label=" reduce"></edge>
+      <edge id="108" source="station" target=" area" label=" reduce"></edge>
+      <edge id="109" source="people" target=" move" label=" are expected"></edge>
+      <edge id="110" source="key development challenge" target=" prc" label=" is in"></edge>
+      <edge id="111" source="people" target=" where expected" label=" are"></edge>
+      <edge id="112" source="people" target=" decade" label=" move over"></edge>
+      <edge id="113" source="people" target=" move to cities" label=" are expected"></edge>
+      <edge id="114" source="people" target=" cities" label=" move to"></edge>
+      <edge id="115" source="people" target=" move to cities over next decade" label=" are expected"></edge>
+      <edge id="116" source="people" target=" move to cities over decade" label=" are expected"></edge>
+      <edge id="117" source="people" target=" next decade" label=" move over"></edge>
+      <edge id="118" source="people" target=" move over next decade" label=" are expected"></edge>
+      <edge id="119" source="people" target=" expected" label=" are"></edge>
+      <edge id="120" source="people" target=" move over decade" label=" are expected"></edge>
+      <edge id="121" source="investments" target=" necessary" label=" are"></edge>
+      <edge id="122" source="investments" target=" development" label=" accommodate"></edge>
+      <edge id="123" source="investments" target=" development in second tier cities" label=" accommodate"></edge>
+      <edge id="124" source="development" target=" second tier cities" label=" is in"></edge>
+      <edge id="125" source="investments" target=" urban infrastructure" label=" is in"></edge>
+      <edge id="126" source="investments" target=" development in tier cities" label=" accommodate"></edge>
+      <edge id="127" source="potential benefits" target=" urbanization" label=" promote"></edge>
+      <edge id="128" source="potential benefits" target=" high speed railway" label=" is in"></edge>
+      <edge id="129" source="potential benefits" target=" sustainable urbanization" label=" promote"></edge>
+      <edge id="130" source="cps2" target=" areas of" label=" is in"></edge>
+      <edge id="131" source="adb" target=" sustainable transport initiative .4 through sti" label=" with"></edge>
+      <edge id="132" source="sti" target=" sti" label=" through initiative is"></edge>
+      <edge id="133" source="adb" target=" sti" label=" 's initiative is"></edge>
+      <edge id="134" source="adb" target=" assistance to prc" label=" of"></edge>
+      <edge id="135" source="proposed project" target=" its support for transport" label=" increase"></edge>
+      <edge id="136" source="project" target=" its support for sustainable transport" label=" increase"></edge>
+      <edge id="137" source="proposed project" target=" its support" label=" increase"></edge>
+      <edge id="138" source="project" target=" its support for transport" label=" increase"></edge>
+      <edge id="139" source="project" target=" its support" label=" increase"></edge>
+      <edge id="140" source="proposed project" target=" its support for sustainable transport" label=" increase"></edge>
+      <edge id="141" source="selected provinces" target=" central region" label=" is in"></edge>
+      <edge id="142" source="proposed project" target=" interests" label=" is also aligned with" weight="2.0"></edge>
+      <edge id="143" source="project" target=" also aligned" label=" is"></edge>
+      <edge id="144" source="project" target=" aligned" label=" is"></edge>
+      <edge id="145" source="proposed project" target=" also aligned" label=" is"></edge>
+      <edge id="146" source="project" target=" interests" label=" is aligned with" weight="2.0"></edge>
+      <edge id="149" source="proposed project" target=" aligned" label=" is"></edge>
+      <edge id="150" source="energy efficiency" target=" will promoted through acquisition of hybrid buses" label=" will"></edge>
+      <edge id="151" source="energy efficiency" target=" will promoted" label=" will"></edge>
+      <edge id="152" source="energy efficiency" target=" will promoted through acquisition of diesel-electric hybrid buses" label=" will"></edge>
+      <edge id="153" source="energy efficiency" target=" will promoted through acquisition" label=" will"></edge>
+      <edge id="154" source="efficient" target=" more environmentally sustainable urban transport system" label=" established"></edge>
+      <edge id="155" source="efficient" target=" environmentally sustainable urban transport system" label=" established"></edge>
+      <edge id="156" source="safe efficient" target=" environmentally sustainable urban transport system" label=" established"></edge>
+      <edge id="157" source="safe efficient" target=" more environmentally sustainable urban transport system" label=" established"></edge>
+      <edge id="158" source="multimodal accessibility" target=" established" label=" is"></edge>
+      <edge id="159" source="accessibility" target=" established" label=" is"></edge>
+      <edge id="160" source="efficient accessibility" target=" established" label=" is"></edge>
+      <edge id="161" source="efficient multimodal accessibility" target=" established" label=" is"></edge>
+      <edge id="162" source="station" target=" integration" label=" promote"></edge>
+      <edge id="163" source="project" target=" six outputs intended" label=" have"></edge>
+      <edge id="164" source="station" target=" multimodal integration" label=" promote"></edge>
+      <edge id="165" source="proposed project" target=" six outputs intended" label=" have"></edge>
+      <edge id="166" source="proposed project" target=" six main outputs" label=" have"></edge>
+      <edge id="167" source="proposed project" target=" six main outputs intended" label=" have"></edge>
+      <edge id="168" source="project" target=" six main outputs" label=" have"></edge>
+      <edge id="169" source="project" target=" six main outputs intended" label=" have"></edge>
+      <edge id="170" source="project" target=" six outputs" label=" have"></edge>
+      <edge id="171" source="proposed project" target=" six outputs" label=" have"></edge>
+      <edge id="172" source="project outputs" target=" transport hub" label=" are"></edge>
+      <edge id="173" source="project outputs" target=" public transport hub" label=" are"></edge>
+      <edge id="174" source="proposed project outputs" target=" public transport hub" label=" are"></edge>
+      <edge id="175" source="proposed project outputs" target=" transport hub" label=" are"></edge>
+      <edge id="176" source="new bus terminal" target=" connections" label=" proposed"></edge>
+      <edge id="177" source="new bus terminal" target=" proposed" label=" are"></edge>
+      <edge id="178" source="new bus terminal" target=" connections to railway station" label=" proposed"></edge>
+      <edge id="179" source="new bus terminal" target=" connections to new railway station" label=" proposed"></edge>
+      <edge id="180" source="bus terminal" target=" connections" label=" proposed"></edge>
+      <edge id="181" source="bus terminal" target=" connections to new railway station" label=" proposed"></edge>
+      <edge id="182" source="bus terminal" target=" proposed" label=" are"></edge>
+      <edge id="183" source="bus terminal" target=" connections to railway station" label=" proposed"></edge>
+      <edge id="184" source="bus transfer facilities" target=" will integrated" label=" will"></edge>
+      <edge id="185" source="bus transfer facilities" target=" will integrated with railway station" label=" will"></edge>
+      <edge id="186" source="bus transfer facilities" target=" fast transfers" label=" ensure"></edge>
+      <edge id="187" source="bus transfer facilities" target=" transfers" label=" ensure"></edge>
+      <edge id="188" source="motorized traffic" target=" multimodal accessibility" label=" maximize"></edge>
+      <edge id="189" source="traffic" target=" multimodal accessibility" label=" maximize"></edge>
+      <edge id="190" source="motorized traffic" target=" accessibility" label=" maximize"></edge>
+      <edge id="191" source="traffic" target=" accessibility" label=" maximize"></edge>
+      <edge id="192" source="public plaza" target=" proposed" label=" is"></edge>
+      <edge id="193" source="plaza" target=" proposed" label=" is"></edge>
+      <edge id="194" source="expanded master" target=" green zone for city residents" label=" provide"></edge>
+      <edge id="195" source="master" target=" area" label=" planned"></edge>
+      <edge id="196" source="master" target=" urban area" label=" planned"></edge>
+      <edge id="197" source="master" target=" green zone" label=" provide"></edge>
+      <edge id="198" source="expanded master" target=" area" label=" planned"></edge>
+      <edge id="199" source="provide" target=" city residents" label=" green zone for" weight="2.0"></edge>
+      <edge id="200" source="master" target=" green zone for city residents" label=" provide"></edge>
+      <edge id="201" source="project" target=" waterway" label=" would restore"></edge>
+      <edge id="202" source="proposed project" target=" waterway" label=" would restore"></edge>
+      <edge id="203" source="expanded master" target=" zone" label=" provide"></edge>
+      <edge id="204" source="expanded master" target=" urban area" label=" planned"></edge>
+      <edge id="206" source="expanded master" target=" green zone" label=" provide"></edge>
+      <edge id="207" source="master" target=" zone" label=" provide"></edge>
+      <edge id="208" source="expanded master" target=" zone for city residents" label=" provide"></edge>
+      <edge id="209" source="master" target=" zone for city residents" label=" provide"></edge>
+      <edge id="210" source="water" target=" at present is channeled" label=" is"></edge>
+      <edge id="211" source="water" target=" rice paddy cultivation" label=" utilized for"></edge>
+      <edge id="212" source="water" target=" is channeled" label=" is"></edge>
+      <edge id="213" source="balance" target=" would sourced from jmg" label=" would"></edge>
+      <edge id="214" source="balance" target=" would sourced" label=" would"></edge>
+      <edge id="215" source="remaining balance" target=" would sourced" label=" would"></edge>
+      <edge id="216" source="remaining balance" target=" would sourced from jmg" label=" would"></edge>
+      <edge id="217" source="it" target=" loan from adb" label=" receive"></edge>
+      <edge id="218" source="it" target=" $ 120 million loan from adb" label=" receive"></edge>
+      <edge id="219" source="it" target=" loan" label=" receive"></edge>
+      <edge id="220" source="it" target=" $ 120 million loan" label=" receive"></edge>
+      <edge id="221" source="$ 2.5 million grant" target=" is also explored from environment facility" label=" is"></edge>
+      <edge id="222" source="$ 2.5 million grant" target=" is also explored" label=" is"></edge>
+      <edge id="223" source="$ grant" target=" is explored from global environment facility" label=" is"></edge>
+      <edge id="224" source="grant" target=" is also explored" label=" is"></edge>
+      <edge id="225" source="$ grant" target=" energy efficiency component" label=" support"></edge>
+      <edge id="226" source="grant" target=" is explored" label=" is"></edge>
+      <edge id="227" source="grant" target=" energy efficiency component" label=" support"></edge>
+      <edge id="228" source="$ grant" target=" is also explored" label=" is"></edge>
+      <edge id="229" source="$ 2.5 million grant" target=" is explored" label=" is"></edge>
+      <edge id="230" source="$ 2.5 million grant" target=" is also explored from global environment facility" label=" is"></edge>
+      <edge id="231" source="grant" target=" is explored from environment facility" label=" is"></edge>
+      <edge id="232" source="$ 2.5 million grant" target=" is explored from global environment facility" label=" is"></edge>
+      <edge id="233" source="$ grant" target=" is explored from environment facility" label=" is"></edge>
+      <edge id="234" source="$ grant" target=" is also explored from environment facility" label=" is"></edge>
+      <edge id="235" source="$ grant" target=" is also explored from global environment facility" label=" is"></edge>
+      <edge id="236" source="grant" target=" is also explored from global environment facility" label=" is"></edge>
+      <edge id="237" source="$ grant" target=" is explored" label=" is"></edge>
+      <edge id="238" source="grant" target=" is explored from global environment facility" label=" is"></edge>
+      <edge id="239" source="$ 2.5 million grant" target=" energy efficiency component" label=" support"></edge>
+      <edge id="240" source="grant" target=" is also explored from environment facility" label=" is"></edge>
+      <edge id="241" source="$ 2.5 million grant" target=" is explored from environment facility" label=" is"></edge>
+      <edge id="242" source="railway" target=" open" label=" is expected" weight="2.0"></edge>
+      <edge id="244" source="new railway" target=" open by 2016" label=" is currently expected" weight="2.0"></edge>
+      <edge id="245" source="railway" target=" open by 2016" label=" is expected" weight="2.0"></edge>
+      <edge id="246" source="railway" target=" currently expected" label=" is"></edge>
+      <edge id="247" source="new railway" target=" open for service by 2016" label=" is expected" weight="2.0"></edge>
+      <edge id="248" source="new railway" target=" service" label=" open for"></edge>
+      <edge id="249" source="railway" target=" open for service" label=" is expected" weight="2.0"></edge>
+      <edge id="250" source="railway" target=" expected" label=" is"></edge>
+      <edge id="251" source="new railway" target=" open for service" label=" is currently expected" weight="2.0"></edge>
+      <edge id="252" source="new railway" target=" currently expected" label=" is"></edge>
+      <edge id="254" source="new railway" target=" open" label=" is expected" weight="2.0"></edge>
+      <edge id="255" source="railway" target=" 2016" label=" open by"></edge>
+      <edge id="260" source="railway" target=" open for service by 2016" label=" is currently expected" weight="2.0"></edge>
+      <edge id="261" source="new railway" target=" expected" label=" is"></edge>
+      <edge id="264" source="railway" target=" service" label=" open for"></edge>
+      <edge id="265" source="new railway" target=" 2016" label=" open by"></edge>
+      <edge id="266" source="the" target=" responsible" label=" is jmg"></edge>
+      <edge id="267" source="the" target=" ea" label=" executing"></edge>
+      <edge id="268" source="counterpart staff" target=" ta activities" label=" coordinate"></edge>
+      <edge id="269" source="jmg" target=" counterpart staff" label=" has appointed"></edge>
+      <edge id="270" source="the" target=" ia" label=" implementing"></edge>
+      <edge id="271" source="the" target=" will city investment" label=" will"></edge>
+      <edge id="272" source="the" target=" will ji'an city investment" label=" will"></edge>
+      <edge id="273" source="it" target=" categorized" label=" is"></edge>
+      <edge id="274" source="ppta" target=" will initiated in 2012" label=" will"></edge>
+      <edge id="275" source="ppta" target=" 2013" label=" completed in"></edge>
+      <edge id="276" source="ppta" target=" amount of $ 700,000" label=" is in"></edge>
+      <edge id="277" source="ppta" target=" will initiated" label=" will"></edge>
+      <edge id="278" source="project" target=" 14 months of staff time" label=" require about"></edge>
+      <edge id="279" source="project" target=" 14 months of staff time including staff consultant resources" label=" require about"></edge>
+      <edge id="280" source="project" target=" 14 months including staff consultant resources" label=" require about"></edge>
+      <edge id="281" source="project" target=" 14 months" label=" require about"></edge>
+      <edge id="282" source="it" target=" estimated" label=" is"></edge>
+      <edge id="283" source="milestones" target=" the" label=" include"></edge>
+      <edge id="284" source="milestones" target=" the following dates" label=" include"></edge>
+      <edge id="285" source="major milestones" target=" the" label=" include"></edge>
+      <edge id="286" source="milestones" target=" the following expected dates" label=" include"></edge>
+      <edge id="287" source="major milestones" target=" the following expected dates" label=" include"></edge>
+      <edge id="288" source="major milestones" target=" the following dates" label=" include"></edge>
+    </edges>
+  </graph>
+</gexf>
