@@ -615,7 +615,7 @@
         }
     }
 
-    function initializeMap() {
+    function initializeMap(url) {
         clearInterval(GexfJS.timeRefresh);
         GexfJS.oldParams = {};
         GexfJS.ctxGraphe.clearRect(0, 0, GexfJS.graphZone.width, GexfJS.graphZone.height);
@@ -642,12 +642,14 @@
         });
         GexfJS.timeRefresh = setInterval(traceMap, 60);
         GexfJS.graph = null;
-        loadGraph();
+
+        url = url ? url : (document.location.hash.length > 1 ? document.location.hash.substr(1) : GexfJS.params.graphFile);
+
+        loadGraph(url);
     }
 
-    function loadGraph() {
+    function loadGraph(url) {
 
-        var url = (document.location.hash.length > 1 ? document.location.hash.substr(1) : GexfJS.params.graphFile);
         var isJson = (function (t) { return t[t.length - 1]; })(url.split('.')) === 'json';
 
         console.log("Loading " + url + " in " + (isJson ? "json" : "gexf") + " mode");
@@ -1166,6 +1168,14 @@
         initializeMap();
 
         window.onhashchange = initializeMap;
+
+        $("#gexfUpload").change(function(){
+            if($(this)[0].files.length > 0){
+                initializeMap('data/' + $(this)[0].files[0].name)
+            }
+            
+        });
+
 
         $("#searchinput")
             .focus(function () {
