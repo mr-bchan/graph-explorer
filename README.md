@@ -3,10 +3,18 @@ POC demo for graph visualization platform
 
 ## Usage
 
-1. Start web app via Python SimpleHTTPServer
+1. Start web app via Python SimpleHTTPServer or http.server
+
+For Python 2.X
 
 ```
 $ python -m SimpleHTTPServer
+```
+
+For Python 3.X
+
+```
+$ python -m http.server
 ```
 
 Output:
