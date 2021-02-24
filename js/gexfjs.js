@@ -316,10 +316,12 @@
             var _str_in = [],
                 _str_out = [],
                 _str_undir = [];
+            
             GexfJS.graph.edgeList.forEach(function (_e) {
                 if (_e.t == _nodeIndex) {
                     var _n = GexfJS.graph.nodeList[_e.s];
                     var _li = $("<li>");
+                    _li.attr("ew", _e.w);                    
                     $("<div>").addClass("smallpill").css("background", _n.B).appendTo(_li);
                     $("<a>")
                         .text(_n.l)
@@ -336,7 +338,7 @@
                         $('<span>').text(" – " + _e.l).appendTo(_li);
                     }
                     if (GexfJS.params.showEdgeWeight) {
-                        $('<span>').text(" (" + _e.w + ")").appendTo(_li);
+                        $('<span>').text(" (" + parseFloat(_e.w) + ")").appendTo(_li);
                     }
                     if (_e.d) {
                         _str_in.push(_li);
@@ -347,6 +349,7 @@
                 if (_e.s == _nodeIndex) {
                     var _n = GexfJS.graph.nodeList[_e.t];
                     var _li = $("<li>");
+                    _li.attr("ew", _e.w);
                     $("<div>").addClass("smallpill").css("background", _n.B).appendTo(_li);
                     $("<a>")
                         .text(_n.l)
@@ -365,6 +368,9 @@
                     if (GexfJS.params.showEdgeWeight) {
                         $('<span>').text(" (" + _e.w + ")").appendTo(_li);
                     }
+
+
+
                     if (_e.d) {
                         _str_out.push(_li);
                     } else {
@@ -381,6 +387,13 @@
                 $('<ul>').html(_str_out).appendTo(_html);
             }
             if (_str_undir.length) {
+                function sortByEdgeWeight(a, b){
+                  var aName = parseFloat(a.attr('ew'));
+                  var bName = parseFloat(b.attr('ew'));
+                  return ((aName < bName) ? 1 : ((aName > bName) ? -1 : 0));
+                }
+
+                _str_undir.sort(sortByEdgeWeight);
                 $('<h4>').text(strLang("undirLinks")).appendTo(_html);
                 $('<ul>').html(_str_undir).appendTo(_html);
             }

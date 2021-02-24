@@ -58,7 +58,7 @@ GexfJS.setParams({
             Show the id of the node in the list
             this setting can't be changed from the User Interface
         */
-    showEdgeArrow : false,
+    showEdgeArrow : true,
         /*
             Show the edge arrows when the edge is directed
             this setting can't be changed from the User Interface
